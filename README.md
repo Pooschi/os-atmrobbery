@@ -34,4 +34,4 @@ Dieses Skript wurde für führende Frameworks wie QBCore entwickelt und bietet e
 - [ox_target](https://github.com/overextended/ox_target/releases)
 
 ## Paid Scripts
-Kostenpflichtigen Skripte.
+Kostenpflichtige Skripte.
