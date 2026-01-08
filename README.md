@@ -23,6 +23,8 @@ Dieses Skript wurde für führende Frameworks wie QBCore entwickelt und bietet e
  
 - 🪢 Geldkassette Kann erst nach 15 Minuten geöffnet werden.
 
+‼️ https://youtu.be/Y1aRfpdrbc0
+
 ######
 ## Support, Paid Script & More
 - [Join the Discord Für Support](https://discord.gg/rJrjM2fjR4)
