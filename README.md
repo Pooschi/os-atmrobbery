@@ -1,4 +1,4 @@
-[![youtube preview](.png)](https://youtu.be/)
+[![youtube preview](https://cdn.discordapp.com/attachments/1458875089071247430/1458875089473769664/OS-Robbery.png?ex=69613acd&is=695fe94d&hm=4bed07f4e2e50d41712b369d0c2aad7dea3f5248f7ab30444b3a1724818e44ef&)](https://youtu.be/Y1aRfpdrbc0)
 
 # Erweitertes Skript für Geldautomatenüberfälle für FiveM 🚓💰
 
@@ -22,8 +22,6 @@ Dieses Skript wurde für führende Frameworks wie QBCore entwickelt und bietet e
 - 🔔 15 Minuten Blip auf der Karte (Kann jeder sehen Dynamic).
  
 - 🪢 Geldkassette Kann erst nach 15 Minuten geöffnet werden.
-
-‼️ https://youtu.be/Y1aRfpdrbc0
 
 ######
 ## Support, Paid Script & More
